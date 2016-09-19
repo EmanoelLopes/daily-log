@@ -10,8 +10,8 @@
 
 #### September
 
-- [18-09-2016](https://github.com/EmanoelLopes/daily-log/logs/september/18-09-2016.md) - `angular 2` `typescript` `ecmascript2015`
+- [18-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/18-09-2016.md) - `angular 2` `typescript` `ecmascript2015`
 	- Starting to learning Angular 2 effectively. 
 
-- [19-09-2016](https://github.com/EmanoelLopes/daily-log/logs/september/18-09-2016.md) - Created this Daily Log :P; 
-	- Already empety. 
+- [19-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/19-09-2016.md) - Created this Daily Log :P; 
+	- Already empty. 
