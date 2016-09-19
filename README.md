@@ -10,8 +10,8 @@
 
 #### September
 
-- [18-09-2016](https://github.com/EmanoelLopes/daily-log/logs/september/18-09-2016.md) - Starting to learning Angular 2 effectively. 
-..* [Angular 2 Quick Start](https://angular.io/docs/ts/latest/quickstart.html) done and I learned the basic project config.
-..* Initialized the official tutorial ['Tour of Heroes'](https://angular.io/docs/ts/latest/tutorial/), where I learned the project structure, creating the first component, using templates with ES2015 Template Strings and [TypeScript](https://www.typescriptlang.org/docs/tutorial.html), NgModules, NgModel and the new way to use Two-way binding in Angular 2. 
+- [18-09-2016](https://github.com/EmanoelLopes/daily-log/logs/september/18-09-2016.md) - `angular 2` `typescript` `ecmascript2015`
+⋅⋅* Starting to learning Angular 2 effectively. 
 
 - [19-09-2016](https://github.com/EmanoelLopes/daily-log/logs/september/18-09-2016.md) - Created this Daily Log :P; 
+⋅⋅* Already empety. 
