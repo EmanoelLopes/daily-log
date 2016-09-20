@@ -15,3 +15,6 @@
 
 - [19-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/19-19-2016.md) - `git` `markdown` `javascript` `ecmascript2015`
 	- Git tips, markdown cheats, good articles about Angular 2 and React;
+
+- [20-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/20-19-2016.md) - `html` `html5 API` 
+	- Researching for HTML5 drag and drop API;
