@@ -18,3 +18,6 @@
 
 - [20-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/20-09-2016.md) - `html` `html5 API` 
 	- Researching for HTML5 drag and drop API;
+
+- [21-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/21-09-2016.md) - `angular` `typescript` `ecmascript2015` `javascript`
+	- Keeping the Angular2 studies;
