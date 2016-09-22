@@ -21,3 +21,6 @@
 
 - [21-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/21-09-2016.md) - `angular` `typescript` `ecmascript2015` `javascript`
 	- Keeping the Angular2 studies;
+
+- [22-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/22-09-2016.md) - `generators` `workflow tools` `deve ops` `node.js`
+	- Some things about workflow, generators, a little introduction to docker with node.js;
