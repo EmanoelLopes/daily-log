@@ -24,3 +24,6 @@
 
 - [22-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/22-09-2016.md) - `generators` `workflow tools` `deve ops` `node.js` `docker`
 	- Some things about workflow, generators, a little introduction to docker with node.js;
+
+- [23-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/23-09-2016.md) - `react` `javascript` `ecmascript2015`
+	- Day dedicated to learn React path;
