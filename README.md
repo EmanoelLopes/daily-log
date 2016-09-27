@@ -31,4 +31,4 @@
 - [26-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/26-09-2016.md) - dead day
 
 - [27-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/27-09-2016.md) - `react` `javascript` `ecmascript2015`
-	- More React
+	- More React and Fetch API
