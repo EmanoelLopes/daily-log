@@ -32,3 +32,11 @@
 
 - [27-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/27-09-2016.md) - `react` `javascript` `ecmascript2015`
 	- More React and Fetch API
+
+#### October
+
+- [20-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/20-10-2016.md) - `build` `tools` `package managers` `yarn` 
+	- The new package manager on the block: Yarn
+
+
+
