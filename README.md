@@ -32,3 +32,12 @@
 
 - [27-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/27-09-2016.md) - `react` `javascript` `ecmascript2015`
 	- More React and Fetch API
+
+-[28-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/28-09-2016.md) - `javascript` `workflow` `tools` `build` `yeoman` `gulp`
+	- Building tools
+
+-[29-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/29-09-2016.md) - `javascript` `workflow` `tools` `build` `yeoman` `gulp`
+	- More Yeoman and Meetup Angular SP #9
+
+-[30-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/30-09-2016.md) - `mobile` `responsive` `javascript` `ecmascript2015` 
+	- 
