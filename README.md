@@ -47,6 +47,9 @@
 - [20-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/20-10-2016.md) - `build` `tools` `package managers` `yarn` 
 	- The new package manager on the block: Yarn
 
-- [21-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/21-10-2016.md) - `ui` `ux` `user experiencie` 
+- [21-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/21-10-2016.md) - `ui` `ux` `user experience` 
 	- Some tips about User Experience
+
+- [21-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/27-10-2016.md) - `css` `preprocessors` 
+	- CSS native variables and preprocessor variables
 
