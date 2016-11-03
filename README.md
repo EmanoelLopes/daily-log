@@ -53,3 +53,9 @@
 - [21-10-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/october/27-10-2016.md) - `css` `preprocessors` 
 	- CSS native variables and preprocessor variables
 
+#### November
+
+- [03-11-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/november/20-10-2016.md) - `javascript` `es6``es2015+`
+	- Much things about javascript/es6 
+
+
