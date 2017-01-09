@@ -55,7 +55,17 @@
 
 #### November
 
-- [03-11-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/november/20-10-2016.md) - `javascript` `es6``es2015+`
-	- Much things about javascript/es6 
+- [03-11-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/november/03-11-2016.md) - `javascript` `es6` `es2015+`
+	- Much things about javascript/ES6 
+
+
+### 2017
+
+## After a big time without logging, here we go again!  
+
+#### January
+
+- [09-01-2017](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2017/january/09-01-2016.md) - `javascript` `es6` `es2015+` `Angular` 
+	- Back in black with Angular and ES6
 
 
