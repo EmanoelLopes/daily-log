@@ -69,3 +69,11 @@
 	- Back in black with Angular and ES6
 
 
+
+### 2018
+
+## Time to loggin for this new year!  
+
+#### February
+
+[15-02-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/february/15-02-2018.md) - `news` `javascript` `performance` `soft skills`
