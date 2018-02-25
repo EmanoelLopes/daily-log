@@ -78,4 +78,6 @@
 
 - [15-02-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/february/15-02-2018.md) - `news` `javascript` `performance` `soft skills`
 
-- [17-02-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/february/17-02-2018.md) - `pwa` `progressive web apps`
+- [17-02-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/february/17-02-2018.md) - `pwa` `progressive web apps vuejs`
+
+- [25-02-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/february/25-02-2018.md) - `pwa` `progressive web apps` `css custom properties` `css animations`
