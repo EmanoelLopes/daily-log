@@ -40,7 +40,7 @@
 	- More Yeoman and Meetup Angular SP #9
 
 - [30-09-2016](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2016/september/30-09-2016.md) - `mobile` `responsive` `javascript` `ecmascript2015` 
-	- 
+
 
 #### October
 
