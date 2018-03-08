@@ -87,3 +87,5 @@
 - [01-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/01-03-2018.md) - `design patterns` `clean code`
 
 - [05-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/05-03-2018.md) - `css grid` `css grid layout`
+
+- [08-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/08-03-2018.md) - `javascript` `es8` `ecmascript2017` `es2015+`
