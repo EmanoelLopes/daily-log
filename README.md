@@ -91,3 +91,5 @@
 - [08-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/08-03-2018.md) - `javascript` `es8` `ecmascript2017` `es2015+`
 
 - [09-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/09-03-2018.md) - `tests` `unit test` `vuejs`
+
+- [13-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/09-03-2018.md) - `reactive programming` `css grid` `css grid layout`
