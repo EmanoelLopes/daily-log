@@ -92,4 +92,6 @@
 
 - [09-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/09-03-2018.md) - `tests` `unit test` `vuejs`
 
-- [13-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/09-03-2018.md) - `reactive programming` `css grid` `css grid layout`
+- [13-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/13-03-2018.md) - `reactive programming` `css grid` `css grid layout`
+
+- [15-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/15-03-2018.md) - `vue` `vue-i18n` `fetch api` `bootstrap 4`
