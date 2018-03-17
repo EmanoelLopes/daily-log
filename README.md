@@ -95,3 +95,5 @@
 - [13-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/13-03-2018.md) - `reactive programming` `css grid` `css grid layout`
 
 - [15-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/15-03-2018.md) - `vue` `vue-i18n` `fetch api` `bootstrap 4`
+
+- [17-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/17-03-2018.md) - `react` `react patterns`
