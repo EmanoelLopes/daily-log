@@ -97,3 +97,5 @@
 - [15-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/15-03-2018.md) - `vue` `vue-i18n` `fetch api` `bootstrap 4`
 
 - [17-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/17-03-2018.md) - `react` `react patterns`
+
+- [20-03-2018](https://github.com/EmanoelLopes/daily-log/blob/master/logs/2018/march/20-03-2018.md) - `html` `css`
